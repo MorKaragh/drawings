@@ -69,11 +69,14 @@
         <mxCell id="tBQm3VWDarHoUwVanacg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tBQm3VWDarHoUwVanacg-1" target="tBQm3VWDarHoUwVanacg-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oymGjMMJbXX4UIxGpSMe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="tBQm3VWDarHoUwVanacg-1" target="tBQm3VWDarHoUwVanacg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tBQm3VWDarHoUwVanacg-1" value="Подать заявления в отделении" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="250" y="230" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tBQm3VWDarHoUwVanacg-2" value="Клиент" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="520" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="225" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tBQm3VWDarHoUwVanacg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tBQm3VWDarHoUwVanacg-5" target="tBQm3VWDarHoUwVanacg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,14 +90,28 @@
         <mxCell id="tBQm3VWDarHoUwVanacg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tBQm3VWDarHoUwVanacg-8" target="tBQm3VWDarHoUwVanacg-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tBQm3VWDarHoUwVanacg-8" value="Заявка попадает в обработку" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="tBQm3VWDarHoUwVanacg-8" value="Заявка попадает в обработку в кредитный отдел" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="250" y="340" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tBQm3VWDarHoUwVanacg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="tBQm3VWDarHoUwVanacg-9" target="tBQm3VWDarHoUwVanacg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oymGjMMJbXX4UIxGpSMe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tBQm3VWDarHoUwVanacg-9" target="oymGjMMJbXX4UIxGpSMe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oymGjMMJbXX4UIxGpSMe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBQm3VWDarHoUwVanacg-9" target="oymGjMMJbXX4UIxGpSMe-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tBQm3VWDarHoUwVanacg-9" value="Ручной&amp;nbsp;&lt;div&gt;подсчёт&amp;nbsp;&lt;div&gt;ставок&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="250" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oymGjMMJbXX4UIxGpSMe-6" value="Excel-файл" style="shape=card;whiteSpace=wrap;html=1;size=20;strokeColor=#23445d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="455" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oymGjMMJbXX4UIxGpSMe-7" value="OR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="564.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
