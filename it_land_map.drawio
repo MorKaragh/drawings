@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="77f4sOUvqrl6B5FB9r38" name="Процесс кредита">
-    <mxGraphModel dx="3457" dy="2983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4148" dy="3360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,8 +555,56 @@
         <mxCell id="PaUMAfS0AivEekEhduX5-16" value="AND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="205" y="650" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-2" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="PaUMAfS0AivEekEhduX5-21" target="k3X1a3-4BGupPGAxuFyr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PaUMAfS0AivEekEhduX5-21" value="AND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="205" y="820" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-4" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-1" target="k3X1a3-4BGupPGAxuFyr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-1" value="Оценка клиента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-6" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-3" target="k3X1a3-4BGupPGAxuFyr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-3" value="Получение оценки" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-8" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-5" target="k3X1a3-4BGupPGAxuFyr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-5" value="Принятие решения&lt;div&gt;о выдаче кредита&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1090" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-10" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-7" target="k3X1a3-4BGupPGAxuFyr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-7" value="Решение принято" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1190" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-12" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-9" target="k3X1a3-4BGupPGAxuFyr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-9" value="Перевоз заявки в терминальный статус" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-14" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-11" target="k3X1a3-4BGupPGAxuFyr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-11" value="Раз в сутки заявки грузятся в АБС" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1390" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3X1a3-4BGupPGAxuFyr-13" target="k3X1a3-4BGupPGAxuFyr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-13" value="Проведение платежа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1490" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k3X1a3-4BGupPGAxuFyr-15" value="Средства перечислены клиенту" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#FF99CC;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1600" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
