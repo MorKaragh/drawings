@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.8">
   <diagram name="roadmap" id="2l_sZtIRdoLyPj4Sk1Ge">
-    <mxGraphModel dx="1386" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,18 @@
         </mxCell>
         <mxCell id="nfSb1PT8enzWGBPoAT3M-42" value="T10 - системная аналитика доработок колл-центра" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="1280" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfSb1PT8enzWGBPoAT3M-43" value="T17 - API для сайта" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfSb1PT8enzWGBPoAT3M-44" value="T18 - API для интернет-банка" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfSb1PT8enzWGBPoAT3M-45" value="T19 - Агрегация заявок разных каналов, интеграция данных в АБС" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="350" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfSb1PT8enzWGBPoAT3M-46" value="T20 -&amp;nbsp;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="420" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
