@@ -123,16 +123,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-14" value="репликасет&amp;nbsp;configReplSet&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="170" height="150" as="geometry" />
+          <mxGeometry x="290" y="695" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-15" value="mongodb-config1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="735" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-16" value="mongodb-config2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="310" y="555" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="770" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-17" value="mongodb-config3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="310" y="590" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="805" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-18" value="репликасет&amp;nbsp;shard1ReplSet&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="180" height="200" as="geometry" />
@@ -145,6 +145,18 @@
         </mxCell>
         <mxCell id="4CTcFAMcefNrS5XfG7Fg-21" value="mongodb-shard1-node1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CTcFAMcefNrS5XfG7Fg-22" value="репликасет&amp;nbsp;shard2ReplSet" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="550" y="670" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4CTcFAMcefNrS5XfG7Fg-23" value="mongodb-shard2-node3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CTcFAMcefNrS5XfG7Fg-24" value="mongodb-shard2-node2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="755" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CTcFAMcefNrS5XfG7Fg-25" value="mongodb-shard2-node1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="710" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
