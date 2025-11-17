@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="29.0.2" pages="3">
   <diagram name="sharding" id="TfVqJd7vO5Me5R-rKEJg">
-    <mxGraphModel dx="1178" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jA-ou1LlQ0urgD-RbWIN-10" value="pymongo_api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jA-ou1LlQ0urgD-RbWIN-11" value="mongodb-config" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
@@ -58,6 +58,21 @@
           <mxGeometry x="-0.7733" relative="1" as="geometry">
             <mxPoint x="34" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qGfCiHmN-daKKKslssP2-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Шардирование MongoDB&lt;/h1&gt;&lt;p&gt;Автор: Степанов Сергей&lt;/p&gt;&lt;p&gt;Дата создания: 14.11.2025&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-160" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qGfCiHmN-daKKKslssP2-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-50" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qGfCiHmN-daKKKslssP2-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ЛЕГЕНДА&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="35" y="-50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGfCiHmN-daKKKslssP2-4" value="компонент приложения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qGfCiHmN-daKKKslssP2-5" value="компонент инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -148,6 +163,21 @@
           <mxGeometry x="530" y="570" as="geometry">
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EQ7-hQZ9Ct8WyWs2QkWs-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Шардирование и репликация&lt;/h1&gt;&lt;p&gt;Автор: Степанов Сергей&lt;/p&gt;&lt;p&gt;Дата создания: 14.11.2025&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="205" width="570" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ7-hQZ9Ct8WyWs2QkWs-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;" vertex="1" parent="1">
+          <mxGeometry x="40" y="315" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ7-hQZ9Ct8WyWs2QkWs-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ЛЕГЕНДА&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="315" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ7-hQZ9Ct8WyWs2QkWs-4" value="компонент приложения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="345" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EQ7-hQZ9Ct8WyWs2QkWs-5" value="компонент инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="395" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
