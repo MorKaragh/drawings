@@ -578,7 +578,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2PBZwy7QzRJ-iGIAXsTf-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Финальный вариант&lt;/h1&gt;&lt;p&gt;Автор: Степанов Сергей&lt;/p&gt;&lt;p&gt;Дата создания: 14.11.2025&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2PBZwy7QzRJ-iGIAXsTf-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Финальный вариант (c CDN)&lt;/h1&gt;&lt;p&gt;Автор: Степанов Сергей&lt;/p&gt;&lt;p&gt;Дата создания: 14.11.2025&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="570" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2PBZwy7QzRJ-iGIAXsTf-31" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;" vertex="1" parent="1">
