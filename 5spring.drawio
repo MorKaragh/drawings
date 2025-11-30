@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.2.1">
   <diagram name="Page-1" id="gJ1z7zeKGGONKjTIJrXT">
-    <mxGraphModel dx="2522" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3231" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,8 +180,8 @@
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-85" parent="9o7GIDE-S3LhQBWQ07d4-76" style="swimlane;startSize=40;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeColor=#56517e;align=center;verticalAlign=middle;fontStyle=1;fillColor=#d0cee2;" value="Обесценивание" vertex="1">
           <mxGeometry height="350" width="120" x="480" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-86" parent="9o7GIDE-S3LhQBWQ07d4-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 102, 0);&quot;&gt;значительный&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;устаревшие данные вызовут тот же эффект, что и некачественные&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="120" y="40" as="geometry" />
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-86" parent="9o7GIDE-S3LhQBWQ07d4-85" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 102, 0);&quot;&gt;значительный&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Персональные данные клиентов должны быть актуальными для корректной работы&lt;/div&gt;&lt;div&gt;&lt;br&gt;Устаревшие данные о собственниках могут привести к ошибкам в начислении ЖКУ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="120" y="40" as="geometry" />
         </mxCell>
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-87" edge="1" parent="1" source="9o7GIDE-S3LhQBWQ07d4-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.059;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=1;labelBackgroundColor=none;endArrow=none;endFill=0;curved=1;" target="9o7GIDE-S3LhQBWQ07d4-76">
           <mxGeometry relative="1" as="geometry">
