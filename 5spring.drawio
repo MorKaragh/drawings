@@ -61,10 +61,10 @@
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-34" edge="1" parent="1" source="9o7GIDE-S3LhQBWQ07d4-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="9o7GIDE-S3LhQBWQ07d4-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Данные сделок клиентов" vertex="1">
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Данные сделок клиентов и собственников" vertex="1">
           <mxGeometry height="60" width="160" x="770" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Персональные данные клиентов" vertex="1">
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Персональные данные клиентов и собственников" vertex="1">
           <mxGeometry height="60" width="160" x="770" y="380" as="geometry" />
         </mxCell>
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-24" edge="1" parent="1" source="9o7GIDE-S3LhQBWQ07d4-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="9o7GIDE-S3LhQBWQ07d4-3" value="">
@@ -94,7 +94,7 @@
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-39" edge="1" parent="1" source="9o7GIDE-S3LhQBWQ07d4-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="9o7GIDE-S3LhQBWQ07d4-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Платёжная информация" vertex="1">
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" value="Платёжная информация клиентов и собственников" vertex="1">
           <mxGeometry height="60" width="160" x="155" y="790" as="geometry" />
         </mxCell>
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-41" edge="1" parent="1" source="9o7GIDE-S3LhQBWQ07d4-40" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="9o7GIDE-S3LhQBWQ07d4-4" value="">
