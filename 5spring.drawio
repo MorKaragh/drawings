@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.2.1">
   <diagram name="Page-1" id="gJ1z7zeKGGONKjTIJrXT">
-    <mxGraphModel dx="2678" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3978" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-77" parent="9o7GIDE-S3LhQBWQ07d4-76" style="swimlane;startSize=40;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" value="Утечка" vertex="1">
           <mxGeometry height="200" width="120" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-78" parent="9o7GIDE-S3LhQBWQ07d4-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;отсутствует&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;данные открыто публикуются&lt;/div&gt;" vertex="1">
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-78" parent="9o7GIDE-S3LhQBWQ07d4-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;критический&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;данные открыто публикуются&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" y="40" as="geometry" />
         </mxCell>
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-79" parent="9o7GIDE-S3LhQBWQ07d4-76" style="swimlane;startSize=40;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeColor=#56517e;align=center;verticalAlign=middle;fontStyle=1;fillColor=#d0cee2;" value="Потеря" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-105" parent="9o7GIDE-S3LhQBWQ07d4-100" style="swimlane;startSize=40;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeColor=#56517e;align=center;verticalAlign=middle;fontStyle=1;fillColor=#d0cee2;" value="Искажение" vertex="1">
           <mxGeometry height="250" width="120" x="240" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="9o7GIDE-S3LhQBWQ07d4-106" parent="9o7GIDE-S3LhQBWQ07d4-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(204, 102, 0);&quot;&gt;значительный&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Искажение аналитических данных приведет к неправильным управленческим решениям.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Искажение технических данных затруднит поддержку системы компании.&lt;/div&gt;" vertex="1">
+        <mxCell id="9o7GIDE-S3LhQBWQ07d4-106" parent="9o7GIDE-S3LhQBWQ07d4-105" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=none;" value="&lt;div&gt;Уровень:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;критический&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Искажение аналитических данных приведет к неправильным управленческим решениям.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Искажение технических данных затруднит поддержку системы компании.&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="120" y="40" as="geometry" />
         </mxCell>
         <mxCell id="9o7GIDE-S3LhQBWQ07d4-107" parent="9o7GIDE-S3LhQBWQ07d4-100" style="swimlane;startSize=40;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeColor=#56517e;align=center;verticalAlign=middle;fontStyle=1;fillColor=#d0cee2;" value="&lt;div&gt;Некачественные&lt;/div&gt;&lt;div&gt;данные&lt;/div&gt;" vertex="1">
